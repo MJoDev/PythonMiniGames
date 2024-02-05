@@ -3,6 +3,7 @@ import random
 
 s = turtle.Screen()
 s.title("Turtle Run")
+s.setup(600, 600)
 
 player1 = turtle.Turtle()
 player2 = turtle.Turtle()
